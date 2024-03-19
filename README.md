@@ -3,8 +3,9 @@ wrog.io sources
 
 ## Installation
 
-First compile wrog.io using gcc [gcc compiler instructions](https://man7.org/linux/man-pages/man1/gcc.1.html)
+First compile wrog.io using gcc [compiler instructions](https://man7.org/linux/man-pages/man1/gcc.1.html)
 
+> Then
 ```bash
 make install
 ```
