@@ -11,18 +11,9 @@ make install
 ```
 
 ## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+Running, operating and configuring instructions can be found under
+```bash
+docs/
 ```
 ## Further Reading
 For complete compilation instructions please read https://gcc.gnu.org/onlinedocs/
