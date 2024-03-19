@@ -1,16 +1,12 @@
 # wrog.io
 wrog.io sources
 
-# qrog.io
-
-Foobar is a Python library for dealing with word pluralization.
-
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+First compile wrog.io using gcc [pip](https://man7.org/linux/man-pages/man1/gcc.1.html)
 
 ```bash
-pip install foobar
+pip make install
 ```
 
 ## Usage
