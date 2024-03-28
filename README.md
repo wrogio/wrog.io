@@ -15,8 +15,11 @@ Running, operating and configuring instructions can be found under
 ```bash
 docs/
 ```
-## Further Reading
+## Compilation Instructions
 For complete compilation instructions please read https://gcc.gnu.org/onlinedocs/
+
+## Notice
+wrog.io relays heavily on flutter.dev platform using a custom ssh plugin to allow creating text based UI/UX.
 
 ## Contributing
 
